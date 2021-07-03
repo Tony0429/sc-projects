@@ -6,16 +6,16 @@ Watch my *[DEMO VIDEOS]* (https://drive.google.com/drive/folders/1Gi3bn9qPW_gR0I
 
 ## Project Source Codes:
 * [Boggle] 
-  * recursive functions
+  * recursive functions()
 * [Bouncing_Ball]
   * animation & game designing(https://github.com/Tony0429/sc-projects/tree/main/StanCode_project/Bouncing_Ball)
 * [Break out Game]
-  * animation & game designing
+  * animation & game designing(https://github.com/Tony0429/sc-projects/tree/main/StanCode_project/Break%20out%20Game)
 * [name_searching_system]
-  * data structure
+  * data structure(https://github.com/Tony0429/sc-projects/tree/main/StanCode_project/name_searching_system)
 * [Hangman]
-  * python semantics & syntax
+  * python semantics & syntax(https://github.com/Tony0429/sc-projects/tree/main/StanCode_project/Hangman)
 * [photoshop]  
-  * image processing
+  * image processing(https://github.com/Tony0429/sc-projects/tree/main/StanCode_project/photoshop)
 * [Weather master]
-  * python semantics & syntax
+  * python semantics & syntax(https://github.com/Tony0429/sc-projects/tree/main/StanCode_project/Weather_master)
