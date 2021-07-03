@@ -6,7 +6,7 @@ Watch my *[DEMO VIDEOS]* (https://drive.google.com/drive/folders/1Gi3bn9qPW_gR0I
 
 ## Project Source Codes:
 * [Boggle] 
-  * recursive functions()
+  * recursive functions(https://github.com/Tony0429/sc-projects/tree/main/StanCode_project/Boggle_Game)
 * [Bouncing_Ball]
   * animation & game designing(https://github.com/Tony0429/sc-projects/tree/main/StanCode_project/Bouncing_Ball)
 * [Break out Game]
