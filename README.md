@@ -13,6 +13,8 @@ Watch my *[DEMO VIDEOS]* (https://drive.google.com/drive/folders/1Gi3bn9qPW_gR0I
   * animation & game designing
 * [name_searching_system]
   * data structure
+* [Hangman]
+  * python semantics & syntax
 * [photoshop]  
   * image processing
 * [Weather master]
