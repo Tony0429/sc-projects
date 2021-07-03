@@ -11,8 +11,6 @@ Watch my *[DEMO VIDEOS]* (https://drive.google.com/drive/folders/1Gi3bn9qPW_gR0I
   * animation & game designing
 * [Break out Game]
   * animation & game designing
-* [Hangman]
-  * python semantics & syntax
 * [name_searching_system]
   * data structure
 * [photoshop]  
